@@ -1,0 +1,16 @@
+{
+    "name": "generador-de-grupos",
+    "version": "1.0.0",
+    "description": "Generador de grupos aleatorios en TypeScript",
+    "main": "index.ts",
+    "scripts": {
+      "start": "tsc && node index.js"
+    },
+    "author": "jefferson y frank",
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {
+      "typescript": "^4.6.2"
+    }
+  }
+  
